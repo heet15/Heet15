@@ -4,8 +4,6 @@ A life long learner and a tech enthusiast by passion. I love to solve problems u
 
 Basically, I am a python developer and passionate about Data Science and Software Development
 
-Heet15
-
 🔭 I’m currently working on Developing the data engineering skills to deal with huge amount of data
 
 💬 Contact me to discuss Emerging Tech, Automation Ideas, Product Development

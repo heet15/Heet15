@@ -12,9 +12,3 @@ Heet15
 
 📫 Reach me at heet.patel@utdallas.edu
 
-
-Connect with me:
-Devarsh23 devarshpatel29 devarsh_patel2310
-
-Languages and Tools:
-cplusplus electron git linux mongodb opencv python scikit_learn tensorflow
